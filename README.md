@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paweł (Pwlklr)
+# Hi there 👋 I'm Paweł
 
 🎓 Computer Science student at Poznan University of Technology  
 💻 DevOps Engineer & Full-Stack Developer passionate about building scalable systems  
@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 - **AI-Powered RNA Structure Platform**  
-  DevOps & Team Lead role — Dockerized architecture, async task processing, scalable deployment  
+  DevOps & Team Lead role — Dockerized architecture, async task processing, scalable deployment. Working on kubernetes and implementing additional features with backend and frontend.
 
 - **ERP Web App for Equipment Inventory**  
   Django + MySQL, deployed in a production environment  
@@ -29,7 +29,7 @@
   Full UI/UX refresh for a local firm in Poznań  
 
 - **ATSPaco – Ant Colony Optimization for Asymmetric TSP**  
-  Solves an advanced Traveling Salesman Problem with 3D coordinates and fuel consumption (Python, matplotlib).  
+  Solves an advanced Traveling Salesman Problem with 3D coordinates and fuel consumption (C++ with python for visualization).  
   Implements Greedy, Brute Force, and Ant Colony Optimization algorithms. Includes a data generator and 3D route visualization.  
 
 - **Smart Irrigation Embedded System**  
