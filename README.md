@@ -4,8 +4,6 @@
 💻 DevOps Engineer & Full-Stack Developer passionate about building scalable systems  
 🔬 Currently working on an AI-powered RNA structure prediction platform as part of my engineering thesis  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwlklr&show_icons=true&theme=github_dark)
-
 ## 🔧 Tech Stack & Tools
 - 🐍 Python | Django | FastAPI  
 - 🐳 Docker | Docker Compose | Kubernetes | GitHub Actions (CI/CD)  
