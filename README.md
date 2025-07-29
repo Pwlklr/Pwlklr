@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Paweł (Pwlklr)
 
-<!--
-**Pwlklr/Pwlklr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Poznan University of Technology  
+💻 DevOps Engineer & Full-Stack Developer passionate about building scalable systems  
+🔬 Currently working on an AI-powered RNA structure prediction platform as part of my engineering thesis  
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwlklr&show_icons=true&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+- 🐍 Python | Django | FastAPI  
+- 🐳 Docker | Docker Compose | Kubernetes | GitHub Actions (CI/CD)  
+- 📨 Celery + RabbitMQ  
+- 🗃️ PostgreSQL | REST APIs  
+- 🌐 HTML/CSS | Next.js  
+- 🖥️ Linux | Bash | Nginx  
+- 🤖 Whisper | LLMs | Automation | Playwright
+
+## 🚀 Featured Projects
+
+- **AI-Powered RNA Structure Platform**  
+  DevOps & Team Lead role — Dockerized architecture, async task processing, scalable deployment  
+
+- **ERP Web App for Equipment Inventory**  
+  Django + MySQL, deployed in a production environment  
+
+- **Law Firm Website Redesign**  
+  Full UI/UX refresh for a local firm in Poznań  
+
+- **ATSPaco – Ant Colony Optimization for Asymmetric TSP**  
+  Solves an advanced Traveling Salesman Problem with 3D coordinates and fuel consumption (Python, matplotlib).  
+  Implements Greedy, Brute Force, and Ant Colony Optimization algorithms. Includes a data generator and 3D route visualization.  
+  [Repo: ATSPaco](https://github.com/Pwlklr/ATSPaco)
+
+- **Smart Irrigation Embedded System**  
+  Web app for managing automatic lawn watering with weather and sensor integration (Django + Raspberry Pi).  
+  Features scheduling, live soil and temperature monitoring, API integration, and hardware control.  
+  [Repo: EmbededSystemsIrigation](https://github.com/Pwlklr/EmbededSystemsIrigation)
+
+- **CT Scanner Simulator**  
+  Parallel model for simulating CT scans, sinogram creation, and tomographic image reconstruction (Python, tkinter, numpy, pydicom).  
+  Features several reconstruction filters (Ramp, Shepp-Logan), DICOM support, and interactive GUI.  
+  Collaborative project with Filip Urbański.  
+
+- **Image Processing: Frangi Filter, Random Forest, UNet**  
+  Implements vessel detection and segmentation using the Frangi filter, random forest classifier, and UNet (Python, OpenCV, sklearn, TensorFlow).  
+  Includes detailed pipeline, accuracy analysis, and visualizations of deep learning results.
+
+- **OpenGL Flight Simulator**  
+  Helicopter flight simulation in 3D using C++ and OpenGL.  
+  Real-time rendering, physics modeling, and interactive controls (GLFW, GLEW, GLM).
+
+## 📫 Let’s connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pawel-kelar)  
+📧 [pawelkelar@outlook.com](mailto:pawelkelar@outlook.com)  
+
+---
+
+*I’m always open to collaboration, learning new tools, and building cool things!*
+
+<!-- Python | Django | FastAPI | Docker | Kubernetes | Celery | PostgreSQL | Next.js | LLMs | Playwright | Poznań | RNA | AI | DevOps | Full Stack -->
