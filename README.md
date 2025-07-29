@@ -27,12 +27,10 @@
 - **ATSPaco – Ant Colony Optimization for Asymmetric TSP**  
   Solves an advanced Traveling Salesman Problem with 3D coordinates and fuel consumption (Python, matplotlib).  
   Implements Greedy, Brute Force, and Ant Colony Optimization algorithms. Includes a data generator and 3D route visualization.  
-  [Repo: ATSPaco](https://github.com/Pwlklr/ATSPaco)
 
 - **Smart Irrigation Embedded System**  
   Web app for managing automatic lawn watering with weather and sensor integration (Django + Raspberry Pi).  
   Features scheduling, live soil and temperature monitoring, API integration, and hardware control.  
-  [Repo: EmbededSystemsIrigation](https://github.com/Pwlklr/EmbededSystemsIrigation)
 
 - **CT Scanner Simulator**  
   Parallel model for simulating CT scans, sinogram creation, and tomographic image reconstruction (Python, tkinter, numpy, pydicom).  
