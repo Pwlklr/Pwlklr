@@ -8,9 +8,13 @@
 - 🐍 Python | Django | FastAPI  
 - 🐳 Docker | Docker Compose | Kubernetes | GitHub Actions (CI/CD)  
 - 📨 Celery + RabbitMQ  
-- 🗃️ PostgreSQL | REST APIs  
-- 🌐 HTML/CSS | Next.js  
-- 🖥️ Linux | Bash | Nginx  
+- 🗃️ PostgreSQL | SQLite | MySQL | REST APIs  
+- 🌐 HTML/CSS | JavaScript | Next.js | AJAX  
+- 🖥️ Linux | Bash | Nginx | Raspberry Pi | GPIO  
+- 🎮 C++ | OpenGL | GLFW | GLEW | GLM  
+- 🖼️ OpenCV | Pillow (PIL) | matplotlib | mpl_toolkits.mplot3d | tkinter  
+- 🔢 NumPy | scikit-learn | TensorFlow | Joblib  
+- 🩺 pydicom  
 - 🤖 Whisper | LLMs | Automation | Playwright
 
 ## 🚀 Featured Projects
