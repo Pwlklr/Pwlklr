@@ -16,6 +16,7 @@
 - 🔢 NumPy | scikit-learn | TensorFlow | Joblib  
 - 🩺 pydicom  
 - 🤖 Whisper | LLMs | Automation | Playwright
+- ☁️ Microsoft Azure [Microsoft Learn Profile].(https://learn.microsoft.com/en-us/users/pawelkelar-2764)
 
 ## 🚀 Featured Projects
 
