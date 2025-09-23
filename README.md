@@ -6,17 +6,17 @@
 
 ## 🔧 Tech Stack & Tools
 - 🐍 Python | Django | FastAPI  
-- 🐳 Docker | Docker Compose | Kubernetes | GitHub Actions (CI/CD)  
+- 🐳 Docker | Docker Compose | Kubernetes | GitHub Actions (CI/CD) | HELM
 - 📨 Celery + RabbitMQ  
-- 🗃️ PostgreSQL | SQLite | MySQL | REST APIs  
-- 🌐 HTML/CSS | JavaScript | Next.js | AJAX  
-- 🖥️ Linux | Bash | Nginx | Raspberry Pi | GPIO  
+- 🗃️ PostgreSQL | SQLite | MySQL
+- 🌐 HTML/CSS | JavaScript | Next.js | REST APIs 
+- 🖥️ Linux | Bash | Nginx | Raspberry Pi  
 - 🎮 C++ | OpenGL | GLFW | GLEW | GLM  
-- 🖼️ OpenCV | Pillow (PIL) | matplotlib | mpl_toolkits.mplot3d | tkinter  
+- 🖼️ OpenCV | Pillow (PIL) | matplotlib | tkinter  
 - 🔢 NumPy | scikit-learn | TensorFlow | Joblib  
 - 🩺 pydicom  
 - 🤖 Whisper | LLMs | Automation | Playwright
-- ☁️ Cloud: Learning Microsoft Azure [Profile](https://learn.microsoft.com/en-us/users/pawelkelar-2764), Terraform and AWS Cloud
+- ☁️ Cloud: Learning Microsoft Azure [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/pawelkelar-2764), Terraform and AWS
 
 ## 🚀 Featured Projects
 
