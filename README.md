@@ -20,8 +20,9 @@
 
 ## 🚀 Featured Projects
 
-- **AI-Powered RNA Structure Platform**  
-  DevOps & Team Lead role — Dockerized architecture, async task processing, scalable deployment. Working on kubernetes and implementing additional features with backend and frontend.
+- **AI-Powered RNA Structure Platform**
+  https://grapharna.cs.put.poznan.pl
+  DevOps & Team Lead role — Dockerized architecture, async task processing, scalable solutions, CI/CD pipelines. Working on kubernetes and implementing additional features with backend and frontend.
 
 - **ERP Web App for Equipment Inventory**  
   Django + MySQL, deployed in a production environment  
